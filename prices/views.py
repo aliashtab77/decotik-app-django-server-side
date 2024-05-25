@@ -23,6 +23,12 @@ def get_prices(request):
         'بتونه درزگیر':int(prices.z14),
         'پودر ماستیک(1)':int(prices.z15),
         'نوار درزگیر':int(prices.z16),
+        'سازه CD60':int(prices.z17),
+        'سازه تراز UD28':int(prices.z18),
+        'اتصال کامل CD60':int(prices.z19),
+        'بست اتصال طولی CD60':int(prices.z20),
+        'آویز نانیوس *':int(prices.z21),
+
 
     }
 

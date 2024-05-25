@@ -22,6 +22,11 @@ class Prices(models.Model):
     z14 = models.CharField(max_length=255, verbose_name='بتونه درز گیر')
     z15 = models.CharField(max_length=255, verbose_name='پودر ماستیک (1)')
     z16 = models.CharField(max_length=255, verbose_name='نوار درزگیر')
+    z17 = models.CharField(max_length=255, verbose_name='سازه CD60')
+    z18 = models.CharField(max_length=255, verbose_name='سازه تراز UD28')
+    z19 = models.CharField(max_length=255, verbose_name='اتصال کامل CD60')
+    z20 = models.CharField(max_length=255, verbose_name='بست اتصال طولی CD60')
+    z21 = models.CharField(max_length=255, verbose_name='آویز نانیوس *')
 
 
 
