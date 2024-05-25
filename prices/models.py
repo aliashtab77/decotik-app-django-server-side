@@ -27,6 +27,10 @@ class Prices(models.Model):
     z19 = models.CharField(max_length=255, verbose_name='اتصال کامل CD60')
     z20 = models.CharField(max_length=255, verbose_name='بست اتصال طولی CD60')
     z21 = models.CharField(max_length=255, verbose_name='آویز نانیوس *')
+    z22 = models.CharField(max_length=255, verbose_name='سازه رانر U50')
+    z23 = models.CharField(max_length=255, verbose_name='پنل آکوستیک پانچ دایره ای نامنظم 12/20/35')
+    z24 = models.CharField(max_length=255, verbose_name='TN25/ SN30')
+    z25 = models.CharField(max_length=255, verbose_name='بتونه TRIAS')
 
 
 

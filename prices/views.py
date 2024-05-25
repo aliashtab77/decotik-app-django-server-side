@@ -28,6 +28,10 @@ def get_prices(request):
         'اتصال کامل CD60':int(prices.z19),
         'بست اتصال طولی CD60':int(prices.z20),
         'آویز نانیوس *':int(prices.z21),
+        'سازه رانر U50':int(prices.z22),
+        'پنل آکوستیک پانچ دایره ای نامنظم 12/20/35':int(prices.z23),
+        'TN25/ SN30':int(prices.z24),
+        'بتونه TRIAS':int(prices.z25),
 
 
     }
