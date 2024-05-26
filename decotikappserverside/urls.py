@@ -19,6 +19,11 @@ from django.urls import path
 from prices import views
 
 urlpatterns = [
-    path('/', admin.site.urls),
-    path('mamad/', views.get_prices, name='prices'),
+    path('admin/', admin.site.urls),
+    path('kplus/', views.get_prices, name='prices'),
+    path('042/', views.get_prices042, name='042'),
+    path('046/', views.get_prices046, name='046'),
+    path('048/', views.get_prices048, name='048'),
+    path('055/', views.get_prices055, name='055'),
+    path('058/', views.get_prices058, name='058')
 ]
