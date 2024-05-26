@@ -43,6 +43,7 @@ class Prices(models.Model):
     z35 = models.CharField(max_length=255, verbose_name='سازه رانر U100')
     z36 = models.CharField(max_length=255, verbose_name='سازه استاد CW100')
     z37 = models.CharField(max_length=255, verbose_name='سازه رانر UW100')
+    z38 = models.CharField(max_length=255, verbose_name='TN35')
 
 
 

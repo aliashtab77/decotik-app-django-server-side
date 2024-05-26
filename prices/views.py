@@ -44,6 +44,8 @@ def get_prices(request):
         'سازه رانر U100':int(prices.z35),
         'سازه استاد CW100':int(prices.z36),
         'سازه رانر UW100':int(prices.z37),
+        'TN35':int(prices.z38),
+
     }
 
     return JsonResponse(data)
