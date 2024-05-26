@@ -20,5 +20,5 @@ from prices import views
 
 urlpatterns = [
     path('/', admin.site.urls),
-    path('prices/', views.get_prices, name='prices'),
+    path('mamad/', views.get_prices, name='prices'),
 ]
