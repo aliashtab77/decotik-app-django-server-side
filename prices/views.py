@@ -32,8 +32,18 @@ def get_prices(request):
         'پنل آکوستیک پانچ دایره ای نامنظم 12/20/35':int(prices.z23),
         'TN25/ SN30':int(prices.z24),
         'بتونه TRIAS':int(prices.z25),
-
-
+        'سازه استاد C50':int(prices.z26),
+        'نوار عایق پشت چسبدار 4*15':int(prices.z27),
+        'سازه استاد CW50':int(prices.z28),
+        'سازه رانر UW50':int(prices.z29),
+        'سازه استاد C70':int(prices.z30),
+        'سازه رانر U70':int(prices.z31),
+        'سازه استاد CW75':int(prices.z32),
+        'سازه رانر UW75':int(prices.z33),
+        'سازه استاد C100':int(prices.z34),
+        'سازه رانر U100':int(prices.z35),
+        'سازه استاد CW100':int(prices.z36),
+        'سازه رانر UW100':int(prices.z37),
     }
 
     return JsonResponse(data)

@@ -31,6 +31,18 @@ class Prices(models.Model):
     z23 = models.CharField(max_length=255, verbose_name='پنل آکوستیک پانچ دایره ای نامنظم 12/20/35')
     z24 = models.CharField(max_length=255, verbose_name='TN25/ SN30')
     z25 = models.CharField(max_length=255, verbose_name='بتونه TRIAS')
+    z26 = models.CharField(max_length=255, verbose_name='سازه استاد C50')
+    z27 = models.CharField(max_length=255, verbose_name='نوار عایق پشت چسبدار 4*15')
+    z28 = models.CharField(max_length=255, verbose_name='سازه استاد CW50')
+    z29 = models.CharField(max_length=255, verbose_name='سازه رانر UW50')
+    z30 = models.CharField(max_length=255, verbose_name='سازه استاد C70')
+    z31 = models.CharField(max_length=255, verbose_name='سازه رانر U70')
+    z32 = models.CharField(max_length=255, verbose_name='سازه استاد CW75')
+    z33 = models.CharField(max_length=255, verbose_name='سازه رانر UW75')
+    z34 = models.CharField(max_length=255, verbose_name='سازه استاد C100')
+    z35 = models.CharField(max_length=255, verbose_name='سازه رانر U100')
+    z36 = models.CharField(max_length=255, verbose_name='سازه استاد CW100')
+    z37 = models.CharField(max_length=255, verbose_name='سازه رانر UW100')
 
 
 
