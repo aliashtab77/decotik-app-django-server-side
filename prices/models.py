@@ -48,6 +48,7 @@ class Prices(models.Model):
     z36 = models.CharField(max_length=255, verbose_name='سازه استاد CW100')
     z37 = models.CharField(max_length=255, verbose_name='سازه رانر UW100')
     z38 = models.CharField(max_length=255, verbose_name='TN35')
+    z39 = models.CharField(max_length=225, verbose_name='بوردفیکس کی پلاس')
 
 
 
@@ -94,6 +95,8 @@ class Prices042(models.Model):
     z36 = models.CharField(max_length=255, verbose_name='سازه استاد CW100')
     z37 = models.CharField(max_length=255, verbose_name='سازه رانر UW100')
     z38 = models.CharField(max_length=255, verbose_name='TN35')
+    z39 = models.CharField(max_length=225, verbose_name='بوردفیکس کی پلاس')
+
 
 
 
@@ -143,6 +146,8 @@ class Prices046(models.Model):
     z36 = models.CharField(max_length=255, verbose_name='سازه استاد CW100')
     z37 = models.CharField(max_length=255, verbose_name='سازه رانر UW100')
     z38 = models.CharField(max_length=255, verbose_name='TN35')
+    z39 = models.CharField(max_length=225, verbose_name='بوردفیکس کی پلاس')
+
 
 
 
@@ -194,6 +199,8 @@ class Prices048(models.Model):
     z36 = models.CharField(max_length=255, verbose_name='سازه استاد CW100')
     z37 = models.CharField(max_length=255, verbose_name='سازه رانر UW100')
     z38 = models.CharField(max_length=255, verbose_name='TN35')
+    z39 = models.CharField(max_length=225, verbose_name='بوردفیکس کی پلاس')
+
 
 
 
@@ -245,6 +252,8 @@ class Prices055(models.Model):
     z36 = models.CharField(max_length=255, verbose_name='سازه استاد CW100')
     z37 = models.CharField(max_length=255, verbose_name='سازه رانر UW100')
     z38 = models.CharField(max_length=255, verbose_name='TN35')
+    z39 = models.CharField(max_length=225, verbose_name='بوردفیکس کی پلاس')
+
 
 
 
@@ -295,6 +304,8 @@ class Prices058(models.Model):
     z36 = models.CharField(max_length=255, verbose_name='سازه استاد CW100')
     z37 = models.CharField(max_length=255, verbose_name='سازه رانر UW100')
     z38 = models.CharField(max_length=255, verbose_name='TN35')
+    z39 = models.CharField(max_length=225, verbose_name='بوردفیکس کی پلاس')
+
 
 
 

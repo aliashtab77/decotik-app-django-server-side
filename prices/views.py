@@ -45,6 +45,7 @@ def get_prices(request):
         'سازه استاد CW100':int(prices.z36),
         'سازه رانر UW100':int(prices.z37),
         'TN35':int(prices.z38),
+        'بوردفیکس کی پلاس':int(prices.z39),
 
     }
 
@@ -94,6 +95,7 @@ def get_prices042(request):
         'سازه استاد CW100':int(prices.z36),
         'سازه رانر UW100':int(prices.z37),
         'TN35':int(prices.z38),
+        'بوردفیکس کی پلاس': int(prices.z39),
 
     }
 
@@ -143,6 +145,7 @@ def get_prices046(request):
         'سازه استاد CW100':int(prices.z36),
         'سازه رانر UW100':int(prices.z37),
         'TN35':int(prices.z38),
+        'بوردفیکس کی پلاس': int(prices.z39),
 
     }
 
@@ -193,6 +196,7 @@ def get_prices048(request):
         'سازه استاد CW100':int(prices.z36),
         'سازه رانر UW100':int(prices.z37),
         'TN35':int(prices.z38),
+        'بوردفیکس کی پلاس': int(prices.z39),
 
     }
 
@@ -242,6 +246,7 @@ def get_prices055(request):
         'سازه استاد CW100':int(prices.z36),
         'سازه رانر UW100':int(prices.z37),
         'TN35':int(prices.z38),
+        'بوردفیکس کی پلاس': int(prices.z39),
 
     }
 
@@ -291,6 +296,7 @@ def get_prices058(request):
         'سازه استاد CW100':int(prices.z36),
         'سازه رانر UW100':int(prices.z37),
         'TN35':int(prices.z38),
+        'بوردفیکس کی پلاس': int(prices.z39),
 
     }
 
