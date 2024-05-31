@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'decotikappserverside.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'starkteamdecotik$zahra',
+        'NAME': 'starkteamdecotik$zahra3',
         'USER': 'starkteamdecotik',
         'PASSWORD': 'M@hdieh1382',
         'HOST':'starkteamdecotikapplication.mysql.pythonanywhere-services.com',
